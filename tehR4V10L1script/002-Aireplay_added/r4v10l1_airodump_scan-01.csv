@@ -1,0 +1,11 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+B4:2A:0E:F0:DF:04, 2019-08-04 19:02:58, 2019-08-04 19:02:58,  1,  54, WPA2 WPA, CCMP TKIP,PSK, -18,        1,        0,   0.  0.  0.  0,  12, vodafoneDEFF, 
+C8:8D:83:6B:EC:D8, 2019-08-04 19:02:55, 2019-08-04 19:03:01, 11,  54, WPA2, CCMP,PSK,  -7,       11,        0,   0.  0.  0.  0,   8, RESTAURO, 
+E8:D1:1B:C0:47:EC, 2019-08-04 19:02:56, 2019-08-04 19:03:00,  9,  54, WPA2, CCMP,PSK,  -7,        9,        4,   0.  0.  0.  0,   3, ZMS, 
+9C:A3:A9:62:B7:4D, 2019-08-04 19:03:00, 2019-08-04 19:03:00,  3,  -1, WPA, ,   ,  -1,        0,        1,   0.  0.  0.  0,   0, , 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+34:E6:AD:41:15:F4, 2019-08-04 19:02:57, 2019-08-04 19:03:00, -54,        4, E8:D1:1B:C0:47:EC,
+D0:AE:EC:E6:A4:88, 2019-08-04 19:02:56, 2019-08-04 19:02:56,  -1,        1, E8:D1:1B:C0:47:EC,
+
