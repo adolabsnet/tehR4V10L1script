@@ -11,6 +11,6 @@ The .tar.xz file has almost all the changes and different versions.
 ``` chmod +x tehR4V10L1script.sh``` 
 
 ``` ./tehR4V10L1script.sh``` 
-### Screen shots
+### Screenshots
 ![alt text](https://i.imgur.com/t6fUnF3.png)
 ![alt text](https://i.imgur.com/m25Qv5r.png)
